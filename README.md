@@ -15,7 +15,7 @@ This project automates the loan approval process using **machine learning techni
 
 Key objectives:
 - Automate the loan approval workflow.
-- Optimize predictive performance via **hyperparameter tuning**.
+- Optimise predictive performance via **hyperparameter tuning**.
 - Improve interpretability using **LIME** and **SHAP** for explainable AI.
 - Ensure balanced decision-making by addressing **class imbalance**.
 
@@ -23,7 +23,7 @@ Key objectives:
 
 ## Models Implemented
 - **Random Forest** – Tuned using GridSearchCV.
-- **XGBoost** – Optimized for improved performance.
+- **XGBoost** – Optimised for improved performance.
 - **Stacking Ensemble** – Combines Random Forest and XGBoost with a **Logistic Regression meta-learner**.
 - **Voting Ensemble** – Soft voting combining tuned Random Forest and XGBoost.
 
