@@ -56,6 +56,7 @@ git clone https://github.com/<your-username>/msc-loan-approval-automation.git
 cd msc-loan-approval-automation
 
 pip install -r requirements.txt
+```
 
 ## Results
 
@@ -65,7 +66,7 @@ F1 Score: 87%
 
 ROC-AUC: 90%
 
-Future Work
+## Future Work
 
 Integrate generative AI for enhanced credit recommendations.
 
@@ -73,7 +74,7 @@ Add interactive financial tools for loan applicants.
 
 Strengthen fairness and transparency in collaboration with regulators.
 
-📧 Contact
+## Contact
 
 Hellen Amimo Otieno
 📍 MSc Data Analytics
