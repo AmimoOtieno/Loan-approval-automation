@@ -16,7 +16,7 @@ This project automates the loan approval process using **machine learning techni
 Key objectives:
 - Automate the loan approval workflow.
 - Optimise predictive performance via **hyperparameter tuning**.
-- Improve interpretability using **LIME** and **SHAP** for explainable AI.
+- Improve interpretability using **LIME** for explainable AI.
 - Ensure balanced decision-making by addressing **class imbalance**.
 
 ---
@@ -68,11 +68,11 @@ ROC-AUC: 90%
 
 ## Future Work
 
-Integrate generative AI for enhanced credit recommendations.
-
-Add interactive financial tools for loan applicants.
-
-Strengthen fairness and transparency in collaboration with regulators.
+- Explore advanced **deep learning techniques** such as neural networks and transformer-based models to improve classification performance.  
+- Allocate more time for **hyperparameter fine-tuning** and experiment with **advanced ensemble methods**, including gradient blending and neural meta-learners.  
+- Integrate richer **financial features** like credit history, banking transactions, and macroeconomic indicators to enhance predictive power.  
+- Expand model **explainability** by incorporating **SHAP** alongside LIME for both local and global interpretation of predictions.  
+- Deploy the model in a **real-time environment**, such as a **web-based loan screening tool** or **decision support dashboard**, to demonstrate practical applicability.
 
 ## Contact
 
