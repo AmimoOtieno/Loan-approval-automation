@@ -42,7 +42,7 @@ We evaluated performance using:
 ```bash
 msc-loan-approval-automation/
 │── msc_project_hellen.py # Main machine learning pipeline
-│── MSc Report - Hellen.docx # Full dissertation
+│── MSc Report - Hellen Amimo Otieno.pdf # Full dissertation
 │── README.md # Project documentation
 │── requirements.txt # Libraries and dependencies
 └── data/ # Dataset folder 
